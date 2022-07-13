@@ -9,7 +9,6 @@
 #
 > After several years teaching editing and graphic design, I reoriented my professional life to study what I love the most :
 > the field of IT, wether it is its security component or its administration.
-#
 
 ```sh
 $> cd Resume
@@ -29,7 +28,7 @@ _May 2021 to present_
 ![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white)
 
 > The common core covers the area of basic programming in C / C++. Some project I did :
-#
+
 ![WIP](https://img.shields.io/badge/Finished-green?style=for-the-badge&logoColor=white) 
 - Webserv :
 -- Recode in c++ 98 a nginx like webserver.
@@ -47,6 +46,7 @@ _May 2021 to present_
 -- Recode basic functions of the libc, threaded programming, sort algorithm.
 
 > These two projects are the last ones that I must finished (ft_containers) and begin (ft_transcendance) before internship or work-study program
+
 ![WIP](https://img.shields.io/badge/Work%20In-Progress-red?style=for-the-badge&logoColor=white)
 - Recode stl containers (vector, stack, map).
 - Code a gaming website (pong !) with a typescript language and nest JS backend // Final Project
@@ -54,7 +54,9 @@ _May 2021 to present_
 
 ### Video editor, graphic designer
 _-> Mostly at Saint-Quentin en Yvelines ([3IS](https://www.3is.fr/)) and Île-de-France_
+
 **Production, realization, delivery (in time !)**
+
 _2013 to 2020_
 
 ![Adobe Premiere Pro](https://img.shields.io/badge/Adobe%20Premiere%20Pro-9999FF.svg?style=for-the-badge&logo=Adobe%20Premiere%20Pro&logoColor=white) ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white) ![Adobe After Effects](https://img.shields.io/badge/Adobe%20After%20Effects-9999FF.svg?style=for-the-badge&logo=Adobe%20After%20Effects&logoColor=white) ![macOS](https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=macos&logoColor=F0F0F0)
