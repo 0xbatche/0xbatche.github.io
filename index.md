@@ -100,19 +100,21 @@ _2014 to 2019_
  ![Vim](https://img.shields.io/badge/VIM-%2311AB00.svg?style=for-the-badge&logo=vim&logoColor=white) ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
  ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) 
  
- ---
+---
 
- ### $> Education
+### $> Field of interest
+![offsec](https://img.shields.io/badge/cybersecurty-%23D90007.svg?style=for-the-badge) ![DRAWING](https://img.shields.io/badge/politic%20&&%20news-4285F4?style=for-the-badge) ![Playing](https://img.shields.io/badge/books-A6A9AA?style=for-the-badge) ![Reading](https://img.shields.io/badge/video%20game-white?style=for-the-badge) 
+
+---
+
+### $> Education
 - School 42 _05/2021 to present_
 - Hack The box Academy (online courses about cybersecurity), _01/2022 to present_
 - Chief Editor, 3IS, _2013_
 - Scientific Baccalaureate, _2008_
 
 ---
-### $> Field of interest
-![offsec](https://img.shields.io/badge/cybersecurty-%23D90007.svg?style=for-the-badge) ![DRAWING](https://img.shields.io/badge/politic%20&&%20news-4285F4?style=for-the-badge) ![Playing](https://img.shields.io/badge/books-A6A9AA?style=for-the-badge) ![Reading](https://img.shields.io/badge/video%20game-white?style=for-the-badge) 
 
----
 ### $> Languages
 - French (maternal)
 - English (technic)
