@@ -48,13 +48,15 @@ _May 2021 to present_
 -- Recode a bash like shell.
 - Libft, ft_printf, philosophers, push_swap.. :
 -- Recode basic functions of the libc, threaded programming, sort algorithm.
+ ---
 
 > These two projects are the last ones that I must finish (ft_containers) and begin (ft_transcendance) before internship or work-study program
 
 ![WIP](https://img.shields.io/badge/Work%20In-Progress-red?style=for-the-badge&logoColor=white)
 - Recode stl containers (vector, stack, map).
 - Code a gaming website (pong !) with a typescript language and nest JS backend // Final Project
- ---
+
+---
 
 ### Video editor, graphic designer
 _-> Mostly at Saint-Quentin en Yvelines ([3IS](https://www.3is.fr/)) and Île-de-France_
