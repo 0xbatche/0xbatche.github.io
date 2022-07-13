@@ -22,6 +22,7 @@ $> ls -a
 -> _Paris_
 
 **Stagiaire de la formation professionnelle (aka student)**
+
 _May 2021 to present_
 
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)  	![Debian](https://img.shields.io/badge/Debian-D70A53?style=for-the-badge&logo=debian&logoColor=white) 
@@ -45,8 +46,8 @@ _May 2021 to present_
 - Libft, ft_printf, philosophers, push_swap.. :
 -- Recode basic functions of the libc, threaded programming, sort algorithm.
 
-![WIP](https://img.shields.io/badge/Work%20In-Progress-red?style=for-the-badge&logoColor=white)
 > These two projects are the last ones that I must finished (ft_containers) and begin (ft_transcendance) before internship or work-study program
+![WIP](https://img.shields.io/badge/Work%20In-Progress-red?style=for-the-badge&logoColor=white)
 - Recode stl containers (vector, stack, map).
 - Code a gaming website (pong !) with a typescript language and nest JS backend // Final Project
  ---
