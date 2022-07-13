@@ -45,7 +45,7 @@ _May 2021 to present_
 - Libft, ft_printf, philosophers, push_swap.. :
 -- Recode basic functions of the libc, threaded programming, sort algorithm.
 #
-> These two projects are the last ones that I must finished (ft_containers) and begin (ft_transcendance) before internship or work-study program
+> These two projects are the last ones that I must finish (ft_containers) and begin (ft_transcendance) before internship or work-study program
 
 ![WIP](https://img.shields.io/badge/Work%20In-Progress-red?style=for-the-badge&logoColor=white)
 - Recode stl containers (vector, stack, map).
@@ -72,6 +72,8 @@ _2013 to 2020_
 -- Managing tools, equipment, people.
 -- The triptich : send a version of a product - collect the correction requests - send a patched version of the product.
 -- Delivery in time, with a smile 🙂
+
+---
 
 ### Teacher in video editing, graphic design
 _-> Saint-Quentin en Yvelines (3IS)_
@@ -103,7 +105,6 @@ _2014 to 2019_
 ---
 #### $> `Field of interest`
 ![offsec](https://img.shields.io/badge/cybersecurty-%23D90007.svg?style=for-the-badge) ![DRAWING](https://img.shields.io/badge/politic%20&&%20news-4285F4?style=for-the-badge) ![Playing](https://img.shields.io/badge/books-A6A9AA?style=for-the-badge) ![Reading](https://img.shields.io/badge/video%20game-white?style=for-the-badge) 
-
 
 ---
 #### $> `Languages`
