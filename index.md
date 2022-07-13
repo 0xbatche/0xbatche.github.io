@@ -11,8 +11,8 @@
 
 ---
 
-> After several years teaching editing and graphic design, I reoriented my professional life to study what I love the most :
-> the field of IT, wether it is its security component or its administration.
+> After several years teaching editing and graphic design, I switched careers to what I love the most :
+> the field of IT, whether it is its security or its administration aspect.
 
 ---
 ```sh
@@ -31,21 +31,21 @@ _May 2021 to present_
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)  	![Debian](https://img.shields.io/badge/Debian-D70A53?style=for-the-badge&logo=debian&logoColor=white) 
 ![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white)
 
-> The common core covers the area of basic programming in C / C++. Some project I did :
+> The common core covers basic programming in C / C++. Some projects I did :
 
 ![WIP](https://img.shields.io/badge/Finished-green?style=for-the-badge&logoColor=white) 
 - Webserv :
--- Recode in c++ 98 a nginx like webserver.
+-- Recode in c++ 98 a nginx-like webserver.
 - Inception :
 -- _Dockerisation_ from 0 to a final product of a LEMP stack + {redis, php-my-admin, ftp, prometheus/grafana}
 - Born To be Root, NetPractice :
--- Projects focused on sys and network administration. LEMP stack on a custom debian server and an overview of TCP/IP protocol.
+-- Projects focused on system and network administration. LEMP stack on a custom debian server and an overview of TCP/IP protocol.
 - CPP Modules :
--- An overview of c++ 98 (from the very begining to containers)
+-- An overview of c++ 98 (from the very beginning to containers)
 - Cub3D :
 -- Recode a [famous](https://fr.wikipedia.org/wiki/Wolfenstein_3D) video game in C and a graphic library.
 - minishell
--- Recode a bash like shell.
+-- Recode a bash-like shell.
 - Libft, ft_printf, philosophers, push_swap.. :
 -- Recode basic functions of the libc, threaded programming, sort algorithm.
  ---
@@ -68,8 +68,8 @@ _2013 to 2020_
 
 ![Adobe Premiere Pro](https://img.shields.io/badge/Adobe%20Premiere%20Pro-9999FF.svg?style=for-the-badge&logo=Adobe%20Premiere%20Pro&logoColor=white) ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white) ![Adobe After Effects](https://img.shields.io/badge/Adobe%20After%20Effects-9999FF.svg?style=for-the-badge&logo=Adobe%20After%20Effects&logoColor=white) ![macOS](https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=macos&logoColor=F0F0F0)
 
-> Realization, artistic direction, production etc. of a lot of different projects with/for a lot different firm/people
-> in different context (professionnal school, movies, video advertising, video clip, theater...)
+> Filmmaking, artistic direction, production etc. of a lot of different projects with/for a lot different firms/people
+> in different context (professional school, movies, video advertising, video clip, theater...)
 
 - Production :
 -- Analysis of time and budget feasibility of a project
@@ -92,9 +92,9 @@ _2014 to 2019_
 
 ![Pedagogy](https://img.shields.io/badge/Pedagogy-%23FCC771?style=for-the-badge&logoColor=white) ![Knowledge](https://img.shields.io/badge/Knowledge-FCC624.svg?style=for-the-badge&logoColor=white) ![Rigor](https://img.shields.io/badge/Rigor-%23F7931E.svg?style=for-the-badge&logoColor=white)
 
-- Participate with other teachers to the design of the pedagogic program, writing, design, deliver the courses based on this program.
+- Participate with other teachers in the design of the educational program, writing, design, deliver the courses based on this program.
 - Animation of the courses (for students from BAC to Master), 
-- Assesments, support the student in their studies, "retex" to the staff.
+- Assessments, support the student in their studies, "retex" to the staff.
 
 ---
 
@@ -106,19 +106,19 @@ _2014 to 2019_
  
 ---
 
-## $> Field of interest
+## $> Fields of interest
 ![offsec](https://img.shields.io/badge/cybersecurity-%23D90007.svg?style=for-the-badge) ![DRAWING](https://img.shields.io/badge/politic%20&&%20news-4285F4?style=for-the-badge) ![Playing](https://img.shields.io/badge/books-A6A9AA?style=for-the-badge) ![Reading](https://img.shields.io/badge/video%20game-white?style=for-the-badge) 
 
 ---
 
 ### $> Education
 - School 42 _05/2021 to present_
-- Hack The box Academy (online courses about cybersecurity), _01/2022 to present_
+- Hack The Box Academy (online courses about cybersecurity), _01/2022 to present_
 - Chief Editor, 3IS, _2013_
 - Scientific Baccalaureate, _2008_
 
 ---
 
 ### $> Languages
-- French (maternal)
-- English (technic)
+- French (native)
+- English (technical)
