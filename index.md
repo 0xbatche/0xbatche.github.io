@@ -19,9 +19,9 @@
 $> cd Resume
 $> ls -a
 ```
-## $> Work Experience && Professional Training
+# $> Work Experience && Professional Training
 
-### School 42
+## School 42
 -> _Paris_
 
 **Stagiaire de la formation professionnelle (aka student)**
@@ -58,7 +58,7 @@ _May 2021 to present_
 
 ---
 
-### Video editor, graphic designer
+## Video editor, graphic designer
 _-> Mostly at Saint-Quentin en Yvelines ([3IS](https://www.3is.fr/)) and Île-de-France_
 
 **Production, realization, delivery (in time !)**
@@ -81,7 +81,7 @@ _2013 to 2020_
 
 ---
 
-### Teacher in video editing, graphic design
+## Teacher in video editing, graphic design
 _-> Saint-Quentin en Yvelines (3IS)_
 **Design courses, teach technical and artistic concepts**
 _2014 to 2019_
@@ -94,7 +94,7 @@ _2014 to 2019_
 
 ---
 
-## $> `Skills`
+### $> Skills
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)  	![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Shell Script](https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)  	![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
  ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white) ![macOS](https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=macos&logoColor=F0F0F0)
  ![Vim](https://img.shields.io/badge/VIM-%2311AB00.svg?style=for-the-badge&logo=vim&logoColor=white) ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
@@ -102,17 +102,17 @@ _2014 to 2019_
  
  ---
 
- #### $> `Education`
+ ### $> Education
 - School 42 _05/2021 to present_
 - Hack The box Academy (online courses about cybersecurity), _01/2022 to present_
 - Chief Editor, 3IS, _2013_
 - Scientific Baccalaureate, _2008_
 
 ---
-#### $> `Field of interest`
+### $> Field of interest
 ![offsec](https://img.shields.io/badge/cybersecurty-%23D90007.svg?style=for-the-badge) ![DRAWING](https://img.shields.io/badge/politic%20&&%20news-4285F4?style=for-the-badge) ![Playing](https://img.shields.io/badge/books-A6A9AA?style=for-the-badge) ![Reading](https://img.shields.io/badge/video%20game-white?style=for-the-badge) 
 
 ---
-#### $> `Languages`
+### $> Languages
 - French (maternal)
 - English (technic)
