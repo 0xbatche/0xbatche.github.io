@@ -20,6 +20,7 @@ $> ls -a
 
 ### School 42
 -> _Paris_
+
 **Stagiaire de la formation professionnelle (aka student)**
 _May 2021 to present_
 
