@@ -10,11 +10,11 @@
 > After several years teaching editing and graphic design, I reoriented my professional life to study what I love the most :
 > the field of IT, wether it is its security component or its administration.
 
+---
 ```sh
 $> cd Resume
 $> ls -a
 ```
----
 ## $> `Work Experience && Professional Training`
 
 ### School 42
