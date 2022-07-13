@@ -2,11 +2,11 @@
 
 ---
 
-#**`Chérif BADAD`** ![Year](https://img.shields.io/badge/32%20yo-grey?style=flat-square&logoColor=white) ![City](https://img.shields.io/badge/Montrouge%20(92)-grey?style=flat-square&logoColor=white)
+# `Chérif BADAD` ![Year](https://img.shields.io/badge/32%20yo-grey?style=flat-square&logoColor=white) ![City](https://img.shields.io/badge/Montrouge%20(92)-grey?style=flat-square&logoColor=white)
  ![Mail](https://img.shields.io/badge/chebadad%20[at]%20lilo%20[dot]%20org-%23107C10.svg?style=flat-square&logoColor=white)
  ![Tel](https://img.shields.io/badge/+33658750128-%23107C10.svg?style=flat-square&logoColor=white)
 ### _Computer science student at school 42._
-#
+
 > After several years teaching editing and graphic design, I reoriented my professional life to study what I love the most :
 > the field of IT, wether it is its security component or its administration.
 
