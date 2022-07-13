@@ -20,7 +20,7 @@ $> cd Resume
 $> ls -a
 ```
 # $> Work Experience && Professional Training
-
+---
 ## School 42
 -> _Paris_
 
