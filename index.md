@@ -59,6 +59,7 @@ _May 2021 to present_
 ---
 
 ## Video editor, graphic designer
+
 _-> Mostly at Saint-Quentin en Yvelines ([3IS](https://www.3is.fr/)) and Île-de-France_
 
 **Production, realization, delivery (in time !)**
@@ -82,8 +83,11 @@ _2013 to 2020_
 ---
 
 ## Teacher in video editing, graphic design
+
 _-> Saint-Quentin en Yvelines (3IS)_
+
 **Design courses, teach technical and artistic concepts**
+
 _2014 to 2019_
 
 ![Pedagogy](https://img.shields.io/badge/Pedagogy-%23FCC771?style=for-the-badge&logoColor=white) ![Knowledge](https://img.shields.io/badge/Knowledge-FCC624.svg?style=for-the-badge&logoColor=white) ![Rigor](https://img.shields.io/badge/Rigor-%23F7931E.svg?style=for-the-badge&logoColor=white)
@@ -103,7 +107,7 @@ _2014 to 2019_
 ---
 
 ## $> Field of interest
-![offsec](https://img.shields.io/badge/cybersecurty-%23D90007.svg?style=for-the-badge) ![DRAWING](https://img.shields.io/badge/politic%20&&%20news-4285F4?style=for-the-badge) ![Playing](https://img.shields.io/badge/books-A6A9AA?style=for-the-badge) ![Reading](https://img.shields.io/badge/video%20game-white?style=for-the-badge) 
+![offsec](https://img.shields.io/badge/cybersecurity-%23D90007.svg?style=for-the-badge) ![DRAWING](https://img.shields.io/badge/politic%20&&%20news-4285F4?style=for-the-badge) ![Playing](https://img.shields.io/badge/books-A6A9AA?style=for-the-badge) ![Reading](https://img.shields.io/badge/video%20game-white?style=for-the-badge) 
 
 ---
 
