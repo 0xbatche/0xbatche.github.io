@@ -2,10 +2,10 @@
 
 ---
 
-# Chérif BADAD
-![Year](https://img.shields.io/badge/32%20yo-grey?style=flat-square&logoColor=white) ![City](https://img.shields.io/badge/Montrouge%20(92)-grey?style=flat-square&logoColor=white)
- [![Mail](https://img.shields.io/badge/Mail%20me-%23107C10.svg?style=flat-square&logoColor=white)](mailto:chebadad@lilo.org)
- ![Tel](https://img.shields.io/badge/+33658750128-%23107C10.svg?style=flat-square&logoColor=white)
+# Chérif BADAD ![Year](https://img.shields.io/badge/32%20yo-grey?style=flat-square&logoColor=white) ![City](https://img.shields.io/badge/Montrouge%20(92)-grey?style=flat-square&logoColor=white)
+
+[![Mail](https://img.shields.io/badge/Mail%20me-%23107C10.svg?style=flat-square&logoColor=white)](mailto:chebadad@lilo.org)
+![Tel](https://img.shields.io/badge/+33658750128-%23107C10.svg?style=flat-square&logoColor=white)
 
 ### _Computer science student at school 42._
 
