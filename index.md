@@ -14,7 +14,7 @@
 </div>
 
 ### _Computer science student at school 42._
-### _Open for internship / work study program in 
+### _Open for internship / work study program in system administration and cybersecurity area_
 
 ---
 
