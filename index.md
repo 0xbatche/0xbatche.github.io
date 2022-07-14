@@ -7,7 +7,7 @@
 [![Mail](https://img.shields.io/badge/Mail%20me-%23107C10.svg?style=flat-square&logoColor=white)](mailto:chebadad@lilo.org) ![Tel](https://img.shields.io/badge/+33658750128-%23107C10.svg?style=flat-square&logoColor=white) ![Year](https://img.shields.io/badge/32%20yo-grey?style=flat-square&logoColor=white) ![City](https://img.shields.io/badge/Montrouge%20(92)-grey?style=flat-square&logoColor=white)
 
 ### _Computer science student at school 42._
-### _Open for internship / work study program in system administration and cybersecurity area_
+### Open for internship / work study program in system administration and cybersecurity area
 
 ---
 
@@ -91,11 +91,11 @@ _2014 to 2019_
 
 ---
 
-## $> Skills
+## $> {Soft}-Skills
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)  	![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Shell Script](https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)  	![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
  ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white) ![macOS](https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=macos&logoColor=F0F0F0)
  ![Vim](https://img.shields.io/badge/VIM-%2311AB00.svg?style=for-the-badge&logo=vim&logoColor=white) ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
- ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) 
+ ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Docu](https://img.shields.io/badge/Documentation%20&%20Reporting-7D4698?style=for-the-badge) ![Tests](https://img.shields.io/badge/Tests-7D00FF?style=for-the-badge&logo=Stellar&logoColor=white)
  
 ---
 
