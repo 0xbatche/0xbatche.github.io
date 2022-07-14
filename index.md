@@ -94,9 +94,10 @@ _2014 to 2019_
 ## $> {Soft}-Skills
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Shell Script](https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white) ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white) ![macOS](https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=macos&logoColor=F0F0F0)
  ![Vim](https://img.shields.io/badge/VIM-%2311AB00.svg?style=for-the-badge&logo=vim&logoColor=white) ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
- ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Docu](https://img.shields.io/badge/Documentation%20&%20Reporting-7D4698?style=for-the-badge) ![Tests](https://img.shields.io/badge/Tests-7D00FF?style=for-the-badge) ![Tech Watch](https://img.shields.io/badge/Tech%20Watch-39477F?style=for-the-badge)
+ ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+ ![Docu](https://img.shields.io/badge/Documentation%20&%20Reporting-7D4698?style=for-the-badge) ![Tests](https://img.shields.io/badge/Tests-7D00FF?style=for-the-badge) ![Tech Watch](https://img.shields.io/badge/Tech%20Watch-39477F?style=for-the-badge)
+![Curious](https://img.shields.io/badge/Curious-%234ea94b.svg?style=for-the-badge) ![enthusiast](https://img.shields.io/badge/Enthusiast-EA4C89?style=for-the-badge&logo=dribbble&logoColor=white) 
 
-![Curious](https://img.shields.io/badge/Curious-%234ea94b.svg?style=for-the-badge) 
 ---
 
 ## $> Fields of interest
