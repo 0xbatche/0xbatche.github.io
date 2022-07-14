@@ -11,12 +11,12 @@
 
 </div>
   
-  <div align=right>
+<div align=right>
 
     <a href="">![Year](https://img.shields.io/badge/32%20yo-grey?style=flat-square&logoColor=white)</a>
     <a href="">![City](https://img.shields.io/badge/Montrouge%20(92)-grey?style=flat-square&logoColor=white)</a>
 
-  </div>
+</div>
 
 
 [![Mail](https://img.shields.io/badge/Mail%20me-%23107C10.svg?style=flat-square&logoColor=white)](mailto:chebadad@lilo.org)
