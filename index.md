@@ -103,7 +103,7 @@ _2014 to 2019_
 ---
 
 ## $> Fields of interest && Hobbies
-![offsec](https://img.shields.io/badge/cybersecurity-%23D90007.svg?style=for-the-badge) ![HTB](https://img.shields.io/badge/Hack%20The%Box-Root--me-black?style=flat-square)
+![offsec](https://img.shields.io/badge/cybersecurity-%23D90007.svg?style=for-the-badge) ![HTB](https://img.shields.io/badge/Hack%20The%Box-Root--me-black?style=flat-square&logoColor=white)
 
 ![Politic](https://img.shields.io/badge/politic%20&&%20news-4285F4?style=for-the-badge) ![Book](https://img.shields.io/badge/books-A6A9AA?style=for-the-badge) ![Game](https://img.shields.io/badge/video%20game-white?style=for-the-badge) 
 
