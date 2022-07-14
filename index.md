@@ -7,13 +7,17 @@
 <div>
   
   <div align=left>
+    
     <a href="">![Year](https://img.shields.io/badge/32%20yo-grey?style=flat-square&logoColor=white)</a>
     <a href="">![City](https://img.shields.io/badge/Montrouge%20(92)-grey?style=flat-square&logoColor=white)</a>
+    
   </div>
   
   <div align=right>
+    
     <a href="">![Year](https://img.shields.io/badge/32%20yo-grey?style=flat-square&logoColor=white)</a>
     <a href="">![City](https://img.shields.io/badge/Montrouge%20(92)-grey?style=flat-square&logoColor=white)</a>
+    
   </div>
   
 </div>
