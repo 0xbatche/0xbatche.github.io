@@ -24,14 +24,14 @@ $> ls -a
 ## School 42
 -> _Paris_
 
-**Stagiaire de la formation professionnelle (aka student)**
+**Student**
 
 _May 2021 to present_
 
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)  	![Debian](https://img.shields.io/badge/Debian-D70A53?style=for-the-badge&logo=debian&logoColor=white) 
 ![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white)
 
-> The common core covers basic programming in C / C++. Some projects I did :
+> The common core covers the area of basic programming in C / C++. Some relevant projects :
 
 ![WIP](https://img.shields.io/badge/Finished-green?style=for-the-badge&logoColor=white) 
 - Webserv :
@@ -60,7 +60,7 @@ _May 2021 to present_
 
 ## Video editor, graphic designer
 
-_-> Mostly at Saint-Quentin en Yvelines ([3IS](https://www.3is.fr/)) and Île-de-France_
+_-> Paris area, France (ex: [3IS](https://www.3is.fr/))_
 
 **Production, realization, delivery (in time !)**
 
@@ -84,7 +84,7 @@ _2013 to 2020_
 
 ## Teacher in video editing, graphic design
 
-_-> Saint-Quentin en Yvelines (3IS)_
+_-> Saint-Quentin en Yvelines, France (3IS)_
 
 **Design courses, teach technical and artistic concepts**
 
@@ -120,5 +120,5 @@ _2014 to 2019_
 ---
 
 ### $> Languages
-- French (native)
-- English (technical)
+- French (native proficiency)
+- English (professional proficiency)
