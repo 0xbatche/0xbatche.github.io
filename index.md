@@ -102,7 +102,7 @@ _2014 to 2019_
 ---
 
 ## $> Fields of interest && Hobbies
-![offsec](https://img.shields.io/badge/cybersecurity%20💻-%23D90007.svg?style=for-the-badge) ![HTB](https://img.shields.io/badge/Hack%20The%20Box-black?style=flat-square) ![RM](https://img.shields.io/badge/Root--me-black?style=flat-square) ![CTF](https://img.shields.io/badge/CTF-black?style=flat-square)
+![offsec](https://img.shields.io/badge/cybersecurity%20💻-%23FF2D20.svg?style=for-the-badge) ![HTB](https://img.shields.io/badge/Hack%20The%20Box-black?style=flat-square) ![RM](https://img.shields.io/badge/Root--me-black?style=flat-square) ![CTF](https://img.shields.io/badge/CTF-black?style=flat-square)
 
 ![Politic](https://img.shields.io/badge/politic%20&&%20news%20📰-%23123.svg?style=for-the-badge) ![GeoPol](https://img.shields.io/badge/Geopolitic-657D8B?style=flat-square) ![Science](https://img.shields.io/badge/Science-657D8B?style=flat-square) ![Ecology](https://img.shields.io/badge/Ecology-657D8B?style=flat-square)
 
