@@ -6,8 +6,8 @@
 
 [![Mail](https://img.shields.io/badge/Mail%20me-%23107C10.svg?style=flat-square&logoColor=white)](mailto:chebadad@lilo.org) ![Tel](https://img.shields.io/badge/+33658750128-%23107C10.svg?style=flat-square&logoColor=white) ![Year](https://img.shields.io/badge/32%20yo-grey?style=flat-square&logoColor=white) ![City](https://img.shields.io/badge/Montrouge%20(92)-grey?style=flat-square&logoColor=white)
 
-### _Computer science student at school 42._
-### Open for internship in system administration and cybersecurity area from January 2023 near Brest.
+### Computer science student at school 42, apprentice pentester and system administrator
+### _Open for internship/work study program from January 2023 near Brest._
 
 ---
 
