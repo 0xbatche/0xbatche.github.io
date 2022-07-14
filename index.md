@@ -4,14 +4,7 @@
 
 <h1 align=center>Chérif BADAD</h1>
 
-<div align=center>
-
-  ![Mail](https://img.shields.io/badge/chebadad@lilo.org-%23107C10.svg?style=flat-square&logoColor=white)
-  ![Tel](https://img.shields.io/badge/+33658750128-%23107C10.svg?style=flat-square&logoColor=white)
-  ![Year](https://img.shields.io/badge/32%20yo-grey?style=flat-square&logoColor=white)
-  ![City](https://img.shields.io/badge/Montrouge%20(92)-grey?style=flat-square&logoColor=white)
-
-</div>
+<div align=center>![Mail](https://img.shields.io/badge/chebadad@lilo.org-%23107C10.svg?style=flat-square&logoColor=white)![Tel](https://img.shields.io/badge/+33658750128-%23107C10.svg?style=flat-square&logoColor=white)![Year](https://img.shields.io/badge/32%20yo-grey?style=flat-square&logoColor=white)![City](https://img.shields.io/badge/Montrouge%20(92)-grey?style=flat-square&logoColor=white)</div>
 
 ### _Computer science student at school 42._
 ### _Open for internship / work study program in system administration and cybersecurity area_
