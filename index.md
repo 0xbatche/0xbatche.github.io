@@ -4,12 +4,12 @@
 
 <h1 align=center>Chérif BADAD</h1>
 
-<div>
+<div align=center>
 
-  <a align=center href="">![Mail](https://img.shields.io/badge/chebadad@lilo.org-%23107C10.svg?style=flat-square&logoColor=white)</a>
-  <a align=right href="">![Tel](https://img.shields.io/badge/+33658750128-%23107C10.svg?style=flat-square&logoColor=white)</a>
-  <a align=center href="">![Year](https://img.shields.io/badge/32%20yo-grey?style=flat-square&logoColor=white)</a>
-  <a align=center href="">![City](https://img.shields.io/badge/Montrouge%20(92)-grey?style=flat-square&logoColor=white)</a>
+  <a href="">![Mail](https://img.shields.io/badge/chebadad@lilo.org-%23107C10.svg?style=flat-square&logoColor=white)</a>
+  <a href="">![Tel](https://img.shields.io/badge/+33658750128-%23107C10.svg?style=flat-square&logoColor=white)</a>
+  <a href="">![Year](https://img.shields.io/badge/32%20yo-grey?style=flat-square&logoColor=white)</a>
+  <a href="">![City](https://img.shields.io/badge/Montrouge%20(92)-grey?style=flat-square&logoColor=white)</a>
 
 </div>
 
