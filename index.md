@@ -108,7 +108,7 @@ _2014 to 2019_
 
  ![Book](https://img.shields.io/badge/books-A6A9AA?style=for-the-badge) ![SF](https://img.shields.io/badge/Science-Fiction-white?style=flat-square) ![Essays](https://img.shields.io/badge/Essays-white?style=flat-square)
 
-![Nature](https://img.shields.io/badge/Nature%20🌿-%234DC730.svg?style=for-the-badge)
+![Nature](https://img.shields.io/badge/Nature%20🌿-brown.svg?style=for-the-badge)
 
 ---
 
