@@ -33,7 +33,6 @@ _May 2021 to present_
 
 > The common core covers the area of basic programming in C / C++. Some relevant projects :
 
-![WIP](https://img.shields.io/badge/Finished-green?style=for-the-badge&logoColor=white) 
 - Webserv :
 -- Recode in c++ 98 a nginx-like webserver.
 - Inception :
@@ -105,7 +104,9 @@ _2014 to 2019_
 ## $> Fields of interest && Hobbies
 ![offsec](https://img.shields.io/badge/cybersecurity-%23D90007.svg?style=for-the-badge) ![HTB](https://img.shields.io/badge/Hack%20The%20Box-black?style=flat-square) ![RM](https://img.shields.io/badge/Root--me-black?style=flat-square) ![CTF](https://img.shields.io/badge/CTF-black?style=flat-square)
 
-![Politic](https://img.shields.io/badge/politic%20&&%20news-4285F4?style=for-the-badge) ![Book](https://img.shields.io/badge/books-A6A9AA?style=for-the-badge) ![Game](https://img.shields.io/badge/video%20game-white?style=for-the-badge) 
+![Politic](https://img.shields.io/badge/politic%20&&%20news-4285F4?style=for-the-badge) ![GeoPol](https://img.shields.io/badge/Geopolitic-657D8B?style=flat-square) ![Science](https://img.shields.io/badge/Science-657D8B?style=flat-square) ![Ecology](https://img.shields.io/badge/Ecology-657D8B?style=flat-square)
+
+![Book](https://img.shields.io/badge/books-A6A9AA?style=for-the-badge) ![Game](https://img.shields.io/badge/video%20game-white?style=for-the-badge) 
 
 ---
 
