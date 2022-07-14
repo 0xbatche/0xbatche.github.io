@@ -31,7 +31,7 @@ _May 2021 to present_
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)  	![Debian](https://img.shields.io/badge/Debian-D70A53?style=for-the-badge&logo=debian&logoColor=white) 
 ![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white)
 
-> The common core covers the area of basic programming in C / C++. Some relevant projects :
+> The ![common core](https://raw.githubusercontent.com/0xbatche/0xbatche.github.io/master/common-core-42.png) covers the area of basic programming in C / C++. Some relevant projects :
 
 - Webserv :
 -- Recode in c++ 98 a nginx-like webserver.
