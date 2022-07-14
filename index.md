@@ -6,7 +6,7 @@
 
 <div>
 
-  <a align=center href="">![![Mail](https://img.shields.io/badge/Mail%20me-%23107C10.svg?style=flat-square&logoColor=white)](mailto:chebadad@lilo.org)</a>
+  <a align=center href="">![Mail](https://img.shields.io/badge/chebadad@lilo.org-%23107C10.svg?style=flat-square&logoColor=white)</a>
   <a align=right href="">![Tel](https://img.shields.io/badge/+33658750128-%23107C10.svg?style=flat-square&logoColor=white)</a>
   <a align=center href="">![Year](https://img.shields.io/badge/32%20yo-grey?style=flat-square&logoColor=white)</a>
   <a align=center href="">![City](https://img.shields.io/badge/Montrouge%20(92)-grey?style=flat-square&logoColor=white)</a>
