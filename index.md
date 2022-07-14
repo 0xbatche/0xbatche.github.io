@@ -4,7 +4,7 @@
 
 <h1 align=center>Chérif BADAD</h1>
 
-<div>
+<div align=center>
 <div align=left>
 
   <a href="">![Year](https://img.shields.io/badge/32%20yo-grey?style=flat-square&logoColor=white)</a>
