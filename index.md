@@ -106,7 +106,7 @@ _2014 to 2019_
 
 ![Politic](https://img.shields.io/badge/politic%20&&%20news%20📰-%23123.svg?style=for-the-badge) ![GeoPol](https://img.shields.io/badge/Geopolitic-657D8B?style=flat-square) ![Science](https://img.shields.io/badge/Science-657D8B?style=flat-square) ![Ecology](https://img.shields.io/badge/Ecology-657D8B?style=flat-square)
 
- ![Book](https://img.shields.io/badge/books%20📚-A6A9AA?style=for-the-badge) ![SF](https://img.shields.io/badge/Science--Fiction-grey?style=flat-square) ![Essays](https://img.shields.io/badge/Essays-grey?style=flat-square)
+ ![Book](https://img.shields.io/badge/books%20📚-2B283A?style=for-the-badge) ![SF](https://img.shields.io/badge/Science--Fiction-grey?style=flat-square) ![Essays](https://img.shields.io/badge/Essays-grey?style=flat-square)
 
 ![Nature](https://img.shields.io/badge/Nature%20🌿-brown.svg?style=for-the-badge)
 
